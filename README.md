@@ -11,7 +11,7 @@ Responsive Portfolio Model
 
 ## Description
 
-This project aims to achieve a portfolio program based on HTML, CSS and JavaScript Web application for a responsive personal portfolio. The objective is to own a Portfolio model so that it's use for other individuals can be monetized.
+This project aims to achieve a portfolio program based on HTML, CSS and JavaScript Web application for a responsive personal portfolio. The objective is to own a Portfolio model so that it can be used as a code base for other portfolio alike projects.
 
 ## Codehal 
 

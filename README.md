@@ -29,3 +29,7 @@ Make sure to Subscribe and turn on notifications!
 Thank you.
 
 Enquiry: halidinfo@gmail.com
+
+## My Model
+
+[Andre's Portfolio Front-end Model](https://andrecoutinhom.github.io/responsive_portfolio_model/andre_port/)
